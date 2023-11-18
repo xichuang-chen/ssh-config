@@ -8,6 +8,6 @@
 
 
 **特别注意：**  
-记得设置自己本地仓库的提交用户名和邮箱
-git config user.name "User 1"   // Updates git config user name
-git config user.email "user1@workMail.com"
+记得设置自己本地仓库的提交用户名和邮箱  
+git config user.name "User 1"   // Updates git config user name  
+git config user.email "user1@workMail.com"  
